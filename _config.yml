@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+title: Mohiniba Jadeja # your name (or website title) here
+logo: "https://avatars.githubusercontent.com/u/20871334?v=4" # your photo (or logo) here
+description: # your text below (remove <br> elements if you don't need line breaks)
+Frontend Engineer
+  <br><br>
+  <a href="mailto:aashima.ahuja811@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
