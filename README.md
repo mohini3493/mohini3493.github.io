@@ -1,5 +1,5 @@
 <h1 align="left">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohiniba Jadeja</h1>
-<h3 align="left">A Passionate Frontend Developer from India</h3>
+<h3 align="left">A Passionate Frontend Developer from India <img src="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png" width="20px"></h3>
 
 I am a Front End developer with 4.5 years of industry experience building websites and web applications. I specialize in WordPress and have professional experience working with HTML and CSS. I also have experience working with javascript, Ajax, jQuery, and React.js.
 
