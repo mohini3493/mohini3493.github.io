@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<h1 align="left">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohiniba Jadeja</h1>
+<h3 align="left">A Passionate Frontend Developer from India</h3>
 
-You can use the [editor on GitHub](https://github.com/mohini3493/mohini3493.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Front End developer with 4.5 years of industry experience building websites and web applications. I specialize in WordPress and have professional experience working with HTML and CSS. I also have experience working with javascript, Ajax, jQuery, and React.js.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **FRONTEND DEVELOPER**
+### VMG Software Solutions Pvt. Ltd
 
-1. Numbered
-2. List
+Working on Magento Frontend side
+Also working on Woocommerce
+Maintianing Worpress Websites
+Customizing & Redesigning Websites
 
-**Bold** and _Italic_ and `Code` text
+### **WEB DEVELOPER**
+### OMGDIGI DIGITAL SERVICES PRIVATE LIMITED
 
-[Link](url) and ![Image](src)
-```
+Working on Magento Frontend side
+Also working on Woocommerce
+Maintianing Worpress Websites
+Customizing & Redesigning Websites
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohini3493/mohini3493.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **Gujarat Technological University**
+### B.E. - Computer Science and Engineering (2011- 2015)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
