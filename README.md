@@ -19,23 +19,19 @@ I am a Front End developer with 4.5 years of industry experience building websit
 
 ## Experience
 
-### **FRONTEND DEVELOPER**
-### VMG Software Solutions Pvt. Ltd
+<h4 align="left">👩‍💻 Frontend Developer - VMG Software Solutions Pvt. Ltd</h4>
 
 Working on Frontend Website Design using WordPress, HTML, CSS and JavaScript. Also having knowledge of Wix and Webflow. Responsible for develop, deploy and maintain multiple websites. Managing team of 3 junior developers.
 
-### **WEB DEVELOPER**
-### OMGDIGI DIGITAL SERVICES PRIVATE LIMITED
+<h4 align="left">👩‍💻 Web Developer - OMGDIGI DIGITAL SERVICES PRIVATE LIMITED</h4>
 
 Developed and maintained WordPress, WooCommerce and Magento websites. Maintained code using Github and Bitbucket to contribute work with multiple developers.
 
-### **WORDPRESS DEVELOPER**
-### Ciesto Solutions
+<h4 align="left">👩‍💻 Wordpress Developer - Ciesto Solutions</h4>
 
 Developed 30+ websites using WordPress. Worked on speed optimization and improving security. Helped multiple clients to convert sites to responsive websites.
 
-### **WORDPRESS DEVELOPER**
-### i-Genesys
+<h4 align="left">👩‍💻 Wordpress Developer - i-Genesys</h4>
 
 Showed willingness to start learning and work on WordPress development. Worked on PSD to WordPress conversion projects and delivered to multiple clients.
 
