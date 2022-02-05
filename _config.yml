@@ -1,5 +1,5 @@
 title: Mohiniba Jadeja # your name (or website title) here
-logo: "/mohini%20profile%20photo.png?raw=true" # your photo (or logo) here
+logo: "/mohini-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Frontend Engineer
   <br><br>
@@ -8,7 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   📱 <a href="https://www.linkedin.com/in/mohini3493/">LinkedIn Profile</a>
   <br>
   Connect with me :
-<a href="https://twitter.com/imohinibajadeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imohinibajadeja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohini3493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohini3493" height="30" width="40" /></a>
-<a href="https://medium.com/@mohini3493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohini3493" height="30" width="40" /></a>
 theme: jekyll-theme-minimal
