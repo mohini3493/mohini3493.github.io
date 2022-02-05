@@ -41,13 +41,3 @@ Showed willingness to start learning and work on WordPress development. Worked o
 
 ### **Gujarat Technological University**
 ### B.E. - Computer Science and Engineering (2011- 2015)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imohinibajadeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imohinibajadeja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohini3493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohini3493" height="30" width="40" /></a>
-<a href="https://medium.com/@mohini3493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohini3493" height="30" width="40" /></a>
-</p>
-
