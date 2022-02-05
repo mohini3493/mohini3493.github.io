@@ -1,11 +1,14 @@
 title: Mohiniba Jadeja # your name (or website title) here
 logo: "/mohini-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Frontend Engineer
+ Connect with me :
   <br><br>
   📭 <a href="mailto:mohini3493@gmail.com">mohini3493@gmail.com </a>
   <br>
-  📱 <a href="https://www.linkedin.com/in/mohini3493/">LinkedIn Profile</a>
+  📱 <a href="https://twitter.com/imohinibajadeja">Twitter</a>
   <br>
-  Connect with me :
+  📱 <a href="https://www.linkedin.com/in/mohini3493/">LinkedIn</a>
+  <br>
+  📱 <a href="https://medium.com/@mohini3493">Medium</a>
+  <br>
 theme: jekyll-theme-minimal
